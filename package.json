@@ -1,0 +1,15 @@
+{
+  "name": "@andre-brdoch/eslint-config-vueslint",
+  "version": "0.0.1",
+  "description": "Eslint config for vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Andre Brdoch",
+  "license": "ISC"
+}
