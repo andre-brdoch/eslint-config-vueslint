@@ -11,5 +11,8 @@
     "eslintconfig"
   ],
   "author": "Andre Brdoch",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@andre-brdoch/eslint-config": "0.0.2"
+  }
 }
